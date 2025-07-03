@@ -1,10 +1,11 @@
 .container {
   display: flex;
   flex-wrap: wrap;
+  background-color: #34c6eb;
 }
 
 .container > div {
-  background-color: #34c6eb;
+  background-color: #42f54e;
   font-size: 20px;
   margin: 20px;
   padding: 20px;
