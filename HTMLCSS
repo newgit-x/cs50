@@ -50,5 +50,9 @@
     </tr>
    </tbody>
   </table>
+  <form>
+    <input type="text" placeholder="Full Name" name="name">
+    <input type="Submit">
+  </form>
  </body>
 </html>
