@@ -3,6 +3,10 @@ Main Repository for CS50 courses. Currently studying CS50's Web Programming with
 
 # Lecture 0
 HTML 5 an CSS 3 are the focus of this lecture.
+# Resources
+[Bootstrap]: https://getbootstrap.com/
+[Sass]: https://sass-lang.com/
+
 # Project 0
 Design a front-end for Google Search, Google Image Search, and Google Advanced Search [Search]: https://cs50.harvard.edu/web/projects/0/search/
 
