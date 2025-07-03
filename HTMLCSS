@@ -52,6 +52,14 @@
   </table>
   <form>
     <input type="text" placeholder="Full Name" name="name">
+    <input type="password" placeholder="Password" name="password">
+    <input name="country" list="countries" placeholder="Country">
+    <datalist id="countries">
+     <option value="Afghanistan">
+     <option value="Bulgaria">
+     <option value="Japan">
+     <option value="United States">
+    </datalist>
     <input type="Submit">
   </form>
  </body>
