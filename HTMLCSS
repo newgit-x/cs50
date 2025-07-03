@@ -53,6 +53,10 @@
   <form>
     <input type="text" placeholder="Full Name" name="name">
     <input type="password" placeholder="Password" name="password">
+    Favorite Color?
+    <input type="radio" id="red" name="fav_color" value="Red">
+    <input type="radio" id="green" name="fav_color" value="Green">
+    <input type="radio" id="blue" name="fav_color" value="Blue">
     <input name="country" list="countries" placeholder="Country">
     <datalist id="countries">
      <option value="Afghanistan">
