@@ -24,3 +24,7 @@ CI/CD Continous Integration/ Continoous Delivery. This is for testing without br
 
 # Lecture 5
 Scaleability and Security for the internet. Load balancing. Proactive design for security.
+
+
+# Project Submissions
+git push to https://github.com/me50/newgit-x.git
